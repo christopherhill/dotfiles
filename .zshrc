@@ -102,7 +102,7 @@ source $ZSH/oh-my-zsh.sh
 # https://www.atlassian.com/git/tutorials/dotfiles
 alias config='/usr/bin/git --git-dir=/Users/chris/.cfg/ --work-tree=/Users/chris'
 
-# enable pure prompt
+# enable pure prompt (located in ~./prompt)
 # https://github.com/sindresorhus/pure
 autoload -U promptinit; promptinit
 prompt pure

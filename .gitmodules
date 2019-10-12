@@ -1,0 +1,3 @@
+[submodule "/Users/chris/.prompt/pure"]
+	path = /Users/chris/.prompt/pure
+	url = https://github.com/sindresorhus/pure
