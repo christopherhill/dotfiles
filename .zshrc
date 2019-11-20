@@ -104,5 +104,6 @@ alias config='/usr/bin/git --git-dir=/Users/chris/.cfg/ --work-tree=/Users/chris
 
 # enable pure prompt (located in ~./prompt)
 # https://github.com/sindresorhus/pure
+fpath+=("$HOME/.zsh/pure")
 autoload -U promptinit; promptinit
 prompt pure
